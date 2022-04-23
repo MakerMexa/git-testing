@@ -1,0 +1,36 @@
+body {
+    background: #3490dc;
+   
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.container {
+    max-width: 1200px;
+
+}
+
+p {
+    font: sans-serif bolder;
+    font-size: 40px;
+}
+
+button {
+    margin: 3%;
+    width: 20%;
+    height: 45%;
+    font-size: 60px;
+}
+
+input {
+    text-align: center;
+    block-size: 120px;
+    font-size: 40px;
+    inline-size: 800px;
+    box-align: left;
+    height: 50px;
+}
